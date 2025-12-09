@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="NekoSettings">喵设置</string>
-    <string name="PreferIPv6">优先尝试使用 IPv6 连接</string>
+    <string name="PreferIPv6">优先通过 IPv6 连接</string>
     <string name="MessageMenu">消息菜单</string>
     <string name="HidePhone">隐藏您的手机号码</string>
     <string name="DeleteAllFromSelf">删除自己的消息</string>
@@ -30,7 +30,6 @@
     <string name="DeleteDownloadedFile">删除缓存的文件</string>
     <string name="TestBackendOn">此账户将连接至测试后端服务器。</string>
     <string name="TestBackendOff">此账户将连接至生产后端服务器。</string>
-    <string name="ViewHistory">显示历史消息</string>
     <string name="Nya">喵！</string>
     <string name="StickerSize">贴纸大小</string>
     <string name="StickerSizeLeft">小</string>

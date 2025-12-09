@@ -22,8 +22,6 @@
     <string name="AddToSavedMessages">Zapisz wiadomość</string>
     <string name="CreateMention">Utwórz wzmiankę</string>
     <string name="Prpr">Peropero</string>
-    <string name="EnableResidentNotification">Pokaż powiadomienie o lokalizacji</string>
-    <string name="DisableResidentNotification">Wyłącz powiadomienia o lokalizacji</string>
     <string name="NekogramRunning">Nekogram jest uruchomiony</string>
     <string name="EventType">Zestaw ikon paska bocznego</string>
     <string name="DependsOnDate">Zależny od dnia</string>
@@ -32,7 +30,6 @@
     <string name="DeleteDownloadedFile">Usuń pobrany plik</string>
     <string name="TestBackendOn">To konto połączy się z backendem testowym.</string>
     <string name="TestBackendOff">To konto połączy się z backendem produkcyjnym.</string>
-    <string name="ViewHistory">Zobacz historię</string>
     <string name="Nya">Miau!</string>
     <string name="StickerSize">Rozmiar naklejek</string>
     <string name="StickerSizeLeft">Mały</string>
@@ -313,6 +310,7 @@
     <string name="AutoInlineBotDesc">Automatyczne odpytywanie bota inline na podstawie tekstu wiadomości.</string>
     <string name="ShortStandardQuality">SD</string>
     <string name="ForceFontWeightFallback">Wymuś przywrócenie wagi czcionki</string>
+    <string name="HideChannelBottomButtons">Ukryj dolne przyciski kanału</string>
     <!-- Accessibility -->
     <string name="AccessibilitySettings">Ustawienia ułatwień dostępu</string>
 </resources>

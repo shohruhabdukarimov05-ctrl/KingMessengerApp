@@ -22,8 +22,6 @@
     <string name="AddToSavedMessages">Захаваць паведамленне</string>
     <string name="CreateMention">Стварыць згадванне</string>
     <string name="Prpr">Peropero</string>
-    <string name="EnableResidentNotification">Паказаць пастаяннае апавяшчэнне</string>
-    <string name="DisableResidentNotification">Адключыць пастаяннае апавяшчэнне</string>
     <string name="NekogramRunning">Nekogram запушчаны</string>
     <string name="EventType">Іконкі бакавога меню</string>
     <string name="DependsOnDate">Залежыць ад даты</string>
@@ -32,7 +30,6 @@
     <string name="DeleteDownloadedFile">Выдаліць спампаваны файл</string>
     <string name="TestBackendOn">Гэты ўліковы запіс падключыцца да тэставага серверу.</string>
     <string name="TestBackendOff">Гэты ўліковы запіс падключыцца да вытворчага серверу.</string>
-    <string name="ViewHistory">Праглядзець гісторыю</string>
     <string name="Nya">Мяў!</string>
     <string name="StickerSize">Памер стыкераў</string>
     <string name="StickerSizeLeft">Маленькі</string>
@@ -117,8 +114,6 @@
     <string name="RegistrationDateNewer">Навейшы за %s</string>
     <string name="RegistrationDateOlder">Старэй за %s</string>
     <string name="RegistrationDateApproximately">Прыблізна %s</string>
-    <string name="WsEnableTls">Уключыць TLS</string>
-    <string name="WsProvider">Пастаўшчык</string>
     <string name="UpdateNekogram">Абнавіць Nekogram</string>
     <string name="TranslationTarget">Мова перакладу</string>
     <string name="TranslationTargetApp">Як у праграме</string>
@@ -158,6 +153,7 @@
     <string name="QRLoginTitle">Уваход праз QR код</string>
     <string name="NoTranslatorAppInstalled">У вас няма дадатку, які можа выконваць пераклад. Калі ласка, устанавіце дадатак для пераклада, каб працягнуць далей</string>
     <string name="DisableVoiceMessagesAutoPlay">Адключыць аўтаўзнаўлення галасавых паведамленняў</string>
+    <string name="UnmuteVideosWithVolumeButtons">Уключыць гук відэа з дапамогай кнопак гучнасці</string>
     <string name="TranslatorType">Тып</string>
     <string name="TranslatorTypeNeko">Поле паведамлення</string>
     <string name="TranslatorTypeTG">Усплывальнае акно</string>
@@ -270,6 +266,7 @@
     <string name="HideStories">Схаваць гісторыі</string>
     <string name="QuickForward">Выкарыстоўваць меню хуткага адказу</string>
     <string name="DidNotGetTheCodeBlameDurov">Калі вы не атрымалі код ці вы не ўваходзілі ў Telegram акаўнт на іншай прыладзе, скарыстайцеся афіцыйным дадаткам Telegram, каб атрымаць код.\n\nTelegram **адключыў магчымасць аўтарызацыі праз СМС** для альтэрнатыўных дадаткаў. Згодна новым правілам, карыстачы альтэрнатыўных кліентаў больш не могуць атрымаць СМС-код для аўтарызацыі. Зараз для атрымання кода патрабуецца скарыстаць афіцыйны дадатак Telegram.\n\nЕсли у вас паўстала праблема з уваходам у акаўнт, калі ласка, звярніцеся ў службу падтрымкі Telegram.</string>
+    <string name="ChangePhoneNumberBlameDurov">Telegram **адключыў магчымасць змены нумара тэлефона** ў праграмах іншых вытворцаў. Карыстальнікі могуць змяніць нумар тэлефона толькі праз арыгінальны Telegram.</string>
     <string name="NavigationAnimation">Анімацыя навігацыі</string>
     <string name="NavigationAnimationBezier">Класічна</string>
     <string name="NavigationAnimationSpring">Натуральны</string>
@@ -308,6 +305,13 @@
     <string name="CloudflareAccountID">Account ID</string>
     <string name="CloudflareAPIToken">API Token</string>
     <string name="CloudflareCredentialsDialog">Наладзіць Cloudfare Acconut ID і API Token.\n**Як атрымаць?**</string>
+    <string name="PreferOriginalQuality">Аддаваць перавагу арыгінальнай якасці</string>
+    <string name="PreferOriginalQualityDesc">Прагляд відэа ў арыгінальнай якасці.</string>
+    <string name="AutoInlineBot">Аўтаматычны ўбудаваны бот</string>
+    <string name="AutoInlineBotDesc">Аўтаматычнае запытванне ўбудаванага бота на аснове тэксту паведамлення.</string>
+    <string name="ShortStandardQuality">SD</string>
+    <string name="ForceFontWeightFallback">Прымусовае памяншэнне памеру тэксту</string>
+    <string name="HideChannelBottomButtons">Схаваць ніжнія кнопкі ў канале</string>
     <!-- Accessibility -->
     <string name="AccessibilitySettings">Адмысловыя магчымасці</string>
 </resources>

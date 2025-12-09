@@ -19,11 +19,9 @@
     <string name="NoQuoteForwardShort">送信者なし</string>
     <string name="NoCaptionForwardShort">キャプションなし</string>
     <string name="Repeat">繰り返す</string>
-    <string name="AddToSavedMessages">保存用メッセージに追加</string>
+    <string name="AddToSavedMessages">「保存用メッセージ」に追加</string>
     <string name="CreateMention">メンションを作成</string>
     <string name="Prpr">ペロペロ</string>
-    <string name="EnableResidentNotification">常駐通知を表示</string>
-    <string name="DisableResidentNotification">常駐通知を無効化</string>
     <string name="NekogramRunning">Nekogramは実行中です</string>
     <string name="EventType">サイドバーアイコンの設定</string>
     <string name="DependsOnDate">日付に応じて変更</string>
@@ -32,7 +30,6 @@
     <string name="DeleteDownloadedFile">ダウンロードしたファイルを削除</string>
     <string name="TestBackendOn">このアカウントはテストバックエンドに接続します。</string>
     <string name="TestBackendOff">このアカウントは本番バックエンドに接続します。</string>
-    <string name="ViewHistory">履歴を表示</string>
     <string name="Nya">にゃ!</string>
     <string name="StickerSize">ステッカーのサイズ</string>
     <string name="StickerSizeLeft">小</string>
@@ -315,6 +312,7 @@
     <string name="AutoInlineBotDesc">メッセージテキストに基づいてインラインボットを自動的に照会します。</string>
     <string name="ShortStandardQuality">SD</string>
     <string name="ForceFontWeightFallback">フォントの太さのフォールバックを強制</string>
+    <string name="HideChannelBottomButtons">チャンネル内の下部のボタンを非表示</string>
     <!-- Accessibility -->
     <string name="AccessibilitySettings">ユーザー補助の設定</string>
     <string name="AccSeekbarHeading">シークバーの設定</string>
